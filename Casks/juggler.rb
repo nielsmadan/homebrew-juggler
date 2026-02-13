@@ -1,8 +1,8 @@
 cask "juggler" do
-  version "1.0.3"
-  sha256 "cde08cc09f266cd951046719607a8661bf9638974b1a0400ae982beba3a4ab00"
+  version "1.0.4"
+  sha256 "46328f7330e37057749a21b3f91ad8cd4d3ec75bd5827ec32347ead7e3eca8e8"
 
-  url "https://github.com/nielsmadan/juggler/releases/download/v#{version}/Juggler.zip"
+  url "https://github.com/nielsmadan/juggler/releases/download/v#{version}/Juggler.dmg"
   name "Juggler"
   desc "Global hotkey navigation for Claude Code sessions"
   homepage "https://github.com/nielsmadan/juggler"
